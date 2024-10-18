@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment variables
+.env
+
+# Flask default SQLite database
+instance/
+*.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# MacOS system files
+.DS_Store
+
+# PyCharm/VSCode IDE settings (optional)
+.idea/
+.vscode/
+
+# Logs and local files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Compiled C extensions
+*.so
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
